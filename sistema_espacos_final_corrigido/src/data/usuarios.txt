@@ -1,0 +1,1 @@
+admin|Administrador|admin@sistema.com|admin123|ADMIN|2025-07-22 11:00:02|true
